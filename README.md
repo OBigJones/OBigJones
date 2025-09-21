@@ -1,5 +1,5 @@
 # 👋 Hi there 
-I am João Paulo Dutra, and I have been working as a software engineer for over 3 years. I am passionate about sharing knowledge. My primary language is C#, but like any good technology enthusiast, I always enjoy challenging myself by learning new things.
+I am João Paulo Dutra, and I have been working as a software engineer for over 5 years. I am passionate about sharing knowledge. My primary language is C#, but like any good technology enthusiast, I always enjoy challenging myself by learning new things.
 
 # 🚀 Expertise
 I like to say that I'm a professional who cares about delivering solutions that I would want to use myself. Despite my relatively short career, I work at a software consultancy serving various clients, so I've already been through some significant projects and learned a lot along the way. It all began with my love for testing, which I discovered early on in my first major project, and it grew into a passion for teaching and sharing knowledge, which I believe is the best way to learn.
