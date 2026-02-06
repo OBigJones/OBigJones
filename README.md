@@ -32,6 +32,26 @@ Currently, I contribute to a **global financial platform** developed in partners
 
 ---
 
+## 🎥 Architecture Walkthrough Videos
+
+This project was part of my postgraduate Software Architecture program and includes full technical walkthroughs covering:
+
+- System design and service boundaries
+- Event-driven architecture and messaging
+- Clean Architecture and DDD
+- Cloud deployment
+- Security and API patterns
+- Trade-offs and scalability decisions
+
+▶️ Video #1
+[Tech Challenge Fase2](https://vimeo.com/1107594652?share=copy&fl=sv&fe=ci)
+
+▶️ Video #2
+[Tech Challenge Fase3](https://vimeo.com/1125375139?share=copy&fl=sv&fe=ci)
+
+▶️ Video #3
+[Tech Challenge Fase4](https://vimeo.com/1157463100?share=copy&fl=sv&fe=ci)
+
 # 📚 Frameworks & Platforms
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
