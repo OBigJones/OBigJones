@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm **João Paulo Dutra**, a Senior Software Engineer and Technical Leader with nearly 6 years of experience building high-criticality systems in financial and enterprise environments.
+I'm **João Paulo Dutra**, a Senior Software Engineer and Technical Leader with nearly 7 years of experience building high-criticality systems in financial and enterprise environments.
 
 I specialize in **software architecture, distributed systems, and team leadership**, and I’ve worked across consulting and global product teams delivering scalable platforms used in production by thousands of users.
 
